@@ -21,3 +21,10 @@ Princy.AI is an **AI-powered assistant** designed to provide intelligent, real-t
 - **Deployment:** Netlify (frontend), Render (backend)  
 
 ---
+
+## 📦 Installation & Setup  
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/princy.ai.git
+   cd princy.ai
